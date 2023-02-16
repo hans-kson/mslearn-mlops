@@ -6,7 +6,7 @@ dependencies:
   - pip:
       - azureml-defaults==1.48.0
       - azureml-sdk==1.48.0
-      - python pytest==7.1.2
+      - pytest==7.1.2
       - mlflow==1.27.0
       - pandas==1.4.3
       - sklearn==0.0
